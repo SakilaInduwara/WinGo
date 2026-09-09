@@ -120,7 +120,7 @@ This project is currently for **personal/development purposes**.
 
 ### 🚀 Wingo
 
-**Built with ❤️ using Next.js & TypeScript**
+**Built by Zaki using Next.js & TypeScript**
 
 ⭐ Star this repository if you like the project!
 
